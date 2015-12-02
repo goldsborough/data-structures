@@ -40,6 +40,7 @@
 		7A03A4541C08586D00D3DB00 /* red-black-tree.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = "red-black-tree.hpp"; sourceTree = "<group>"; };
 		7A03A4551C08586D00D3DB00 /* separate-chaining-hash-table.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = "separate-chaining-hash-table.hpp"; sourceTree = "<group>"; };
 		7A03A4561C08586D00D3DB00 /* trie.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = trie.hpp; sourceTree = "<group>"; };
+		7A0FE7821C0F42260073F813 /* cuckoo-hash-table.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "cuckoo-hash-table.hpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		7A03A4341C08573800D3DB00 = {
 			isa = PBXGroup;
 			children = (
+				7A0FE7821C0F42260073F813 /* cuckoo-hash-table.hpp */,
 				7A03A4481C08586D00D3DB00 /* array-stack.hpp */,
 				7A03A4491C08586D00D3DB00 /* binary-search-tree.hpp */,
 				7A03A44A1C08586D00D3DB00 /* heap-filter.hpp */,
